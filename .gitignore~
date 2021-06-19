@@ -1,0 +1,6 @@
+.eunit
+.rebar
+_build
+ebin
+./rebar3
+rebar3
